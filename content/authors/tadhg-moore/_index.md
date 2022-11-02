@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Limnological Modelling
+    - course: PhD in Freshwater Science 
       institution: Dundalk Institute of Technology
       year: 2020
     - course: BSc in Environmental Science

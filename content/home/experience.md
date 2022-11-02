@@ -22,28 +22,49 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Support Officer
+    company: UNEP GEMS/Water Capacity Development Centre
+    company_url: 'https://www.ucc.ie/en/gemscdc/'
+    company_logo: gems-water
+    location: University College Cork, Ireland
+    date_start: '2022-06-21'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+        * Provide expertise, technical and administrative support for online educational programmes in Freshwater Quality Monitoring
+        * Development of a product platform for the delivery of capacity development in the World Water Quality Alliance (WWQA)
+        * Coordinate workshops in Biological Monitoring for Freshwater systems to up-skill water managers 
+        * Develop an active network of educational establishments to contribute to capacity development for GEMS/Water and the WWQA
+        * Administer online Continuous Professional Development courses and liaise with students
+        * Updating news and content for the UNEP GEMS/Water CDC website
+        * Review and assess MSc students’ theses and provide feedback
+  - title: Environmental Consultant
+    company: Limnotrack
+    company_url: 'http://limnotrack.com/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Wellington, New Zealand
+    date_start: '2022-07-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        * Co-development of research methodologies to address stakeholder management needs
+        * Synthesis of water quality data from numerous lakes across New Zealand
+        * Develop modelling workflows to simulate hydrology, in-lake hydrodynamics, and biogeochemistry
+        * Integrate and visualize results for a web platform (using R Shiny applications) for delivery to stakeholders which include local, regional, and national government bodies
+  - title: Postdoctoral Associate
+    company: Virginia Tech, US
+    company_url: 'https://www.vt.edu/'
+    company_logo: org-x
+    location: Blacksburg, VA, US
+    date_start: '2020-09-02'
+    date_end: '2022-06-01'
+    description: |2-
+        Responsibilities include:
+        * Developed teaching modules about Ecological Forecasting for undergraduate students
+        * Built an ensemble modelling framework to deliver near-term iterative water quality forecasts for a reservoir in Southwest Virginia
+        * Communicated research results through writing scientific publications (Moore et al., 2022; Thomas et al., 2022), presenting at local, national, and international conferences and
+
 
 design:
   columns: '2'
