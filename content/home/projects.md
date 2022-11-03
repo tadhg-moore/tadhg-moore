@@ -28,7 +28,7 @@ content:
     - name: All
       tag: '*'
     - name: Ecological Forecast
-      tag: Ecological Forecast
+      tag: Ecological Forecasting
     - name: Modelling
       tag: Modelling
     - name: Education
