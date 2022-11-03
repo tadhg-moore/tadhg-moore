@@ -7,20 +7,22 @@ tags:
   - Extreme Climate Events
   - Water Quality
   - Climate Services
+  - Seasonal Forecast
+  - Ecological Forecasting
 date: '2017-09-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://watexr.eu/'
 
 image:
-  caption: Group photo at the WateXr meeting at the Marine Institute, Newport, Mayo, Ireland.
+  caption: ""
   focal_point: Smart
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/PROGNOSproject
+    url: https://twitter.com/watexr
 url_code: ''
 url_pdf: ''
 url_slides: ''

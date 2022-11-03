@@ -7,19 +7,20 @@ tags:
   - Climate Change
   - Water Quality
 date: '2018-11-15T00:00:00Z'
+slug: isimip
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
   caption: Example output data in the ISIMIP2b Lake Sector [(Golub et al., 2022)](https://doi.org/10.5194/gmd-15-4597-2022)
-  focal_point: Smart
+  focal_point: ""
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/PROGNOSproject
+    url: https://twitter.com/ISIMIPImpacts
 url_code: ''
 url_pdf: ''
 url_slides: ''

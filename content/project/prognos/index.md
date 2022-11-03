@@ -8,12 +8,13 @@ tags:
   - Algal Blooms
   - DOC
 date: '2016-06-15T00:00:00Z'
+slug: prognos
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'http://www.waterjpi.eu/joint-calls/joint-call-2015-waterworks-2014/prognos'
+external_link: ''
 
 image:
-  caption: Group photo at the PROGNOS kick-off meeting at Lake Erken, Sweden.
+  caption: ""
   focal_point: Smart
 
 links:
@@ -39,3 +40,5 @@ Lakes and reservoirs are under continuous pressure from urbanization and agricul
 In PROGNOS, we will develop an integrated approach that couples HF lake monitoring data to dynamic water quality models to forecast short-term changes in lake water quality. This will potentially provide a greater window of opportunity over which to make water quality management decisions, and will increase the value of HF monitoring data, ensuring that their potential to guide water quality management is fully realized. This project will promote innovative solutions for water-related challenges across Europe. It will develop, demonstrate and disseminate forecast based adaptive management solutions for two specific water quality threats: nuisance algal blooms and the production disinfection by-products from DOC. The technology demonstrated here has the potential to transform water management and foster the growth of European companies that specialize in adaptive water management and water quality forecasting systems.
 
 The project consortium includes expertise from European sites that have been involved in the forefront of HF monitoring systems since the late 1990s, expertise in modelling algal blooms and DOC levels, and expertise in assessing societal benefits from changes in water management.
+
+[Website](http://www.waterjpi.eu/joint-calls/joint-call-2015-waterworks-2014/prognos)

@@ -18,13 +18,13 @@ organizations:
     url: https://www.ucc.ie/en/gemscdc/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include environmental data analysis, lake modelling and water education.
 
 # Interests to show in About widget
 interests:
   - Lake Modelling
   - Ecological Forecasting
-  - Environmental Education
+  - Water Capacity Development
 
 # Education to show in About widget
 education:
@@ -41,9 +41,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/tadhg_moore
@@ -59,6 +56,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/tadhg-moore-7895sd343/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/tadhg-moore_cv.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -77,4 +77,4 @@ highlight_name: true
 Tadhg  Moore is a research support officer at the UNEP GEMS/Water Capacity Development Centre. His research interests include lake modelling, climate change impacts on lakes and environmental education. He develops and delivers online training courses in water quality monitoring to water professionals globally.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/tadhg-moore_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
