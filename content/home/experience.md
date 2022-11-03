@@ -41,7 +41,7 @@ experience:
         * Review and assess MSc students’ theses and provide feedback
   - title: Environmental Consultant
     company: Limnotrack
-    company_url: 'http://limnotrack.com/'
+    company_url: 'https://limnotrack.com/'
     company_logo: org-x
     location: Wellington, New Zealand
     date_start: '2022-07-01'
@@ -53,9 +53,9 @@ experience:
         * Develop modelling workflows to simulate hydrology, in-lake hydrodynamics, and biogeochemistry
         * Integrate and visualize results for a web platform (using R Shiny applications) for delivery to stakeholders which include local, regional, and national government bodies
   - title: Postdoctoral Associate
-    company: Virginia Tech, US
+    company: Virginia Tech, USA
     company_url: 'https://www.vt.edu/'
-    company_logo: org-x
+    company_logo: vts
     location: Blacksburg, VA, US
     date_start: '2020-09-02'
     date_end: '2022-06-01'
@@ -63,7 +63,20 @@ experience:
         Responsibilities include:
         * Developed teaching modules about Ecological Forecasting for undergraduate students
         * Built an ensemble modelling framework to deliver near-term iterative water quality forecasts for a reservoir in Southwest Virginia
-        * Communicated research results through writing scientific publications (Moore et al., 2022; Thomas et al., 2022), presenting at local, national, and international conferences and
+        * Communicated research results through writing scientific publicationss, presenting at local, national, and international conferencesss
+  - title: Scientific Technological Officer
+    company: Marine Institute, Ireland
+    company_url: 'https://www.marine.ie/'
+    company_logo: mi
+    location: Oranmore, Galway, Ireland
+    date_start: '2020-07-04'
+    date_end: '2020-09-02'
+    description: |2-
+        Responsibilities include:
+        * Conducted research on the effects of climate change on lakes and reservoirs globally
+        * Collaborated with international researchers for lake modelling work
+        * Co-authored scientific publications 
+
 
 
 design:
