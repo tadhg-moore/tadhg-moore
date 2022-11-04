@@ -8,6 +8,9 @@ tags:
   - Ecosystem Modeling
   - Sensor Data
   - Modelling
+  - Data Assimilation
+  - Uncertainty
+  - Quantifying Uncertainty
 date: '2020-10-02T00:00:00Z'
 slug: flare
 

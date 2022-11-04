@@ -9,7 +9,7 @@ tags:
   - Macrosystems Biology
   - Sensor Data
   - Teaching Modules
-  - undergraduate education
+  - Undergraduate Education
 
 date: '2020-09-02T00:00:00Z'
 

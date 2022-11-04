@@ -1,4 +1,10 @@
-### Hi there 👋
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2feab31a-eba0-439b-8250-9e7227d7f928/deploy-status)](https://app.netlify.com/sites/tadhg-moore/deploys)
+### Tadhg Moore
+
+
+
+
+This website was built using `blogdown` following instructions from Shilaan Alzahawi's [blogpost](https://shilaan.rbind.io/post/building-your-website-using-r-blogdown/).
 
 <!--
 **tadhg-moore/tadhg-moore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
