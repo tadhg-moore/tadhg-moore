@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 40%
+  - description: ""
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 40%
+  - description: ""
     icon: shiny
     icon_pack: custom
     name: Shiny
-  - description: 20%
+  - description: ""
     icon: github
     icon_pack: fab
     name: GitHub
@@ -32,7 +32,7 @@ feature:
 #- icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
-#  description: "100%"
+#  description: ""
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
