@@ -9,6 +9,7 @@ tags:
   - Water Management
   - Water Quality
   - Water Monitoring
+  - Teaching Modules
 date: '2022-06-21T00:00:00Z'
 slug: wwqa-cdcm
 
