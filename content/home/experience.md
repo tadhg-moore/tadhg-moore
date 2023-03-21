@@ -31,9 +31,9 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        * Co-development of research methodologies to address stakeholder management needs
-        * Develop modelling workflows to simulate hydrology, in-lake hydrodynamics, and biogeochemistry
-        * Integrate and visualize results for a web platform (using R Shiny applications) for delivery to stakeholders which include local, regional, and national government bodies
+        * Co-development of research methodologies to address stakeholder management needs.
+        * Develop modelling workflows to simulate hydrology, in-lake hydrodynamics, and biogeochemistry.
+        * Integrate and visualize results for a web platform (using R Shiny applications) for delivery to stakeholders which include local, regional, and national government bodies.
   - title: Research Support Officer
     company: UNEP GEMS/Water Capacity Development Centre
     company_url: 'https://www.ucc.ie/en/gemscdc/'
@@ -55,9 +55,9 @@ experience:
     date_end: '2022-06-01'
     description: |2-
         Responsibilities include:
-        * Created teaching modules about Ecological Forecasting for undergraduate students
-        * Developed an ensemble modelling framework to deliver near-term iterative water quality forecasts
-        * Mentored undergraduate and PhD students
+        * Created teaching modules about Ecological Forecasting for undergraduate students.
+        * Developed an ensemble modelling framework to deliver near-term iterative water quality forecasts.
+        * Mentored undergraduate and PhD students.
   - title: Scientific Technological Officer
     company: Marine Institute, Ireland
     company_url: 'https://www.marine.ie/'
@@ -67,9 +67,9 @@ experience:
     date_end: '2020-09-02'
     description: |2-
         Responsibilities include:
-        * Conducted research on the effects of climate change on lakes and reservoirs globally
-        * Collaborated with international researchers for lake modelling work
-        * Co-authored scientific publications 
+        * Conducted research on the effects of climate change on lakes and reservoirs globally.
+        * Collaborated with international researchers for lake modelling work.
+        * Co-authored scientific publications.
 
 
 
