@@ -22,19 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Support Officer
-    company: UNEP GEMS/Water Capacity Development Centre
-    company_url: 'https://www.ucc.ie/en/gemscdc/'
-    company_logo: gems-water
-    location: University College Cork, Ireland
-    date_start: '2022-06-21'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        * Provide expertise and support for online educational programmes in Freshwater Quality Monitoring
-        * Create a product platform for the delivery of capacity development in the World Water Quality Alliance (WWQA)
-        * Develop an active network of educational establishments to build capacity development for the WWQA
-  - title: Environmental Consultant (part-time)
+  - title: Environmental Consultant
     company: Self-employed
     company_url: ''
     company_logo: 
@@ -46,6 +34,18 @@ experience:
         * Co-development of research methodologies to address stakeholder management needs
         * Develop modelling workflows to simulate hydrology, in-lake hydrodynamics, and biogeochemistry
         * Integrate and visualize results for a web platform (using R Shiny applications) for delivery to stakeholders which include local, regional, and national government bodies
+  - title: Research Support Officer
+    company: UNEP GEMS/Water Capacity Development Centre
+    company_url: 'https://www.ucc.ie/en/gemscdc/'
+    company_logo: gems-water
+    location: University College Cork, Ireland
+    date_start: '2022-06-21'
+    date_end: '2023-03-20'
+    description: |2-
+        Responsibilities include:
+        * Provide expertise and support for online educational programmes in Freshwater Quality Monitoring.
+        * Coordinate and help run workshops related to biological water quality monitoring.
+        * Develop a freely available online course for handling and presenting water quality data.
   - title: Postdoctoral Associate
     company: Virginia Tech, USA
     company_url: 'https://www.vt.edu/'
