@@ -10,21 +10,22 @@ last_name: Moore
 superuser: true
 
 # Role/position/tagline
-role: Research Support Officer
+role: Environmental Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UNEP GEMS/Water Capacity Development Centre
-    url: https://www.ucc.ie/en/gemscdc/
+  - name: Object Base Ltd
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include environmental data analysis, lake modelling and water education.
 
 # Interests to show in About widget
 interests:
+  - Freshwater Resource Management
   - Lake Modelling
   - Ecological Forecasting
-  - Water Capacity Development
+  - Capacity Development for Water Quality
 
 # Education to show in About widget
 education:
@@ -74,7 +75,7 @@ email: ''
 highlight_name: true
 ---
 
-Tadhg  Moore is a research support officer at the UNEP GEMS/Water Capacity Development Centre. His research interests include lake modelling, climate change impacts on lakes and environmental education. He develops and delivers online training courses in water quality monitoring to water professionals globally.
+Tadhg  Moore is an environmental consultant working with Limnotrack Ltd., New Zealand. His research interests include lake modelling, climate change impacts on lakes and environmental education. He develops and delivers online platforms for water quality data for water resource managers. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/tadhg-moore_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
