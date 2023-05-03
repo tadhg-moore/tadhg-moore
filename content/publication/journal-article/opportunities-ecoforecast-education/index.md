@@ -43,7 +43,7 @@ tags:
 - Teaching Modules
 - Undergraduate Education
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
