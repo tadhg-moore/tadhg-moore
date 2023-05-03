@@ -7,7 +7,7 @@ authors:
 - Antoinette Abeyta
 - Nievita Bueno Watts
 - Cayelan C. Carey
-- Tadhg N. Moore
+- Tadhg Moore
 - Georgia Smies
 - R. Quinn Thomas
 - Whitney M. Woelmer
@@ -29,6 +29,8 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*Academic Practice in Ecology and Evolution* (4)"
 publication_short: ""
+
+abstract: TEst.
 
 # Summary. An optional shortened abstract.
 summary: Conducting ecological research in a way that addresses complex, real-world problems requires a diverse, interdisciplinary and quantitatively trained ecology and environmental science workforce.  We use ecological forecasting to show how ecology and environmental science undergraduate curriculum could be evaluated and ultimately restructured to address the needs of the 21st century workforce. We developed and implemented programs to increase the accessibility and comprehensiveness of ecological forecasting undergraduate education, including initiatives to engage specifically with Native American undergraduates and online resources for learning quantitative concepts at the undergraduate level.
