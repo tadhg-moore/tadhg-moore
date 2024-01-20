@@ -10,12 +10,12 @@ last_name: Moore
 superuser: true
 
 # Role/position/tagline
-role: Environmental Consultant
+role: Senior Lake Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Object Base Ltd
-    url: 
+  - name: Limnotrack
+    url: http://limnotrack.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include environmental data analysis, lake modelling and water education.
