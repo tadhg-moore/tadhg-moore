@@ -75,7 +75,7 @@ email: ''
 highlight_name: true
 ---
 
-Tadhg  Moore is an environmental consultant working with Limnotrack Ltd., New Zealand. His research interests include lake modelling, climate change impacts on lakes and environmental education. He develops and delivers online platforms for water quality data for water resource managers. 
+Tadhg  Moore is a senior lake scientist working with Limnotrack in Hamilton, New Zealand. His research interests include lake modelling, climate change impacts on lakes and environmental education. He develops and delivers online platforms for water quality data for water resource managers. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/tadhg-moore_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
