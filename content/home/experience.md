@@ -22,9 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+    - title: Senior Lake Scientist
+    company: Limnotrack
+    company_url: 'http://limnotrack.com/'
+    company_logo: limnotrack
+    location: Hamilton, New Zealand
+    date_start: '2023-09-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        * Developing a web platform for the delivery of lake modelling services.
+        * Data manager for water quality monitoring programmes.
+        * Writing reports and scientific papers for consultancy clients.
   - title: Environmental Consultant
     company: Self-employed
-    company_url: ''
+    company_url: '2023-08-31'
     company_logo: 
     location: Cork, Ireland
     date_start: '2022-07-01'
