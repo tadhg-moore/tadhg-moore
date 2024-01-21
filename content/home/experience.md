@@ -36,11 +36,11 @@ experience:
         * Writing reports and scientific papers for consultancy clients.
   - title: Environmental Consultant
     company: Self-employed
-    company_url: '2023-08-31'
+    company_url: ''
     company_logo: 
     location: Cork, Ireland
     date_start: '2022-07-01'
-    date_end: ''
+    date_end: '2023-08-31'
     description: |2-
         Responsibilities include:
         * Co-development of research methodologies to address stakeholder management needs.
