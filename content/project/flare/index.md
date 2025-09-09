@@ -36,5 +36,3 @@ slides: ""
 ---
 
 The [FLARE project](https://flare-forecast.org/) creates open-source software for flexible, scalable, robust, and near-real time iterative ecological forecasts in lakes and reservoirs. FLARE is composed of water temperature and meteorology sensors that wirelessly stream data, a data assimilation algorithm that uses sensor observations to update predictions from a hydrodynamic model and calibrate model parameters, and an ensemble-based forecasting algorithm to generate forecasts that include uncertainty.
-
-Each module can be adapted for use in introductory, intermediate, and advanced courses in ecology and related fields, in order to enhance students' understanding of macrosystems ecology and ecological forecasting, their computational skills, and their ability to conduct inquiry-based studies.
