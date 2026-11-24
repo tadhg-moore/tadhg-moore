@@ -10,12 +10,14 @@ last_name: Moore
 superuser: true
 
 # Role/position/tagline
-role: Senior Lake Scientist
+role: Senior Lake Scientist | Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Limnotrack
     url: http://limnotrack.com/
+  - name: University of Waikato
+    url: https://profiles.waikato.ac.nz/t.moore
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include environmental data analysis, lake modelling and water education.
@@ -25,16 +27,16 @@ interests:
   - Freshwater Resource Management
   - Lake Modelling
   - Ecological Forecasting
-  - Capacity Development for Water Quality
+  - Capacity Development
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Freshwater Science 
-      institution: Dundalk Institute of Technology
+      institution: Dundalk Institute of Technology, Ireland
       year: 2020
     - course: BSc in Environmental Science
-      institution: University College Cork
+      institution: University College Cork, Ireland
       year: 2016
 
 # Social/Academic Networking

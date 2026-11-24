@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral Fellow
+    company: University of Waikato
+    company_url: 'https://www.waikato.ac.nz/'
+    company_logo: waikato
+    location: Hamilton, New Zealand
+    date_start: '2025-10-20'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        * Building a lake ecosystem model for Lake Rotorua for .
+        * Analysing historical water quality data to inform lake management decisions.
+        * Synthesizing research findings into reports and scientific papers.
   - title: Senior Lake Scientist
     company: Limnotrack
     company_url: 'http://limnotrack.com/'
