@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         * Building a lake ecosystem model for Lake Rotorua for Bay of Plenty regional council.
-        * Analysing historical water quality data to inform lake management decisions.
+        * Modelling historical and future water quality data to inform lake management decisions.
         * Synthesizing research findings into reports and scientific papers.
   - title: Senior Lake Scientist
     company: Limnotrack
