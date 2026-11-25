@@ -9,12 +9,12 @@ headless: false
 # Order that this section appears on the page.
 weight: 0
 
-title: Shiny
+title: Software
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: shiny
+  page_type: software
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -31,6 +31,8 @@ content:
       tag: Education
     - name: Dashboard
       tag: Dashboard
+    - name: R Package
+      tag: R Package
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

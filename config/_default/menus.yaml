@@ -13,8 +13,8 @@ main:
   - name: Projects
     url: 'project'
     weight: 30
-  - name: Shiny
-    url: 'shiny'
+  - name: Software
+    url: 'software'
     weight: 40
   - name: Publications
     url: 'publication'
