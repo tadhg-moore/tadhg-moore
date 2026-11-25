@@ -1,5 +1,5 @@
 ---
-title: Rotorua PC10 Lake Modelling
+title: Lake Rotorua PC10 Lake Modelling
 summary: Upgrading the Lake Rotorua model to GLM-AED, including a mechanistic alum-phosphorus module, to support climate change and management scenario testing under Plan Change 10.
 tags:
   - Ecosystem Modeling

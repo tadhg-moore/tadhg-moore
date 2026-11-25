@@ -1,5 +1,5 @@
 ---
-title: Rotorua PC10 Catchment Modelling
+title: Lake Rotorua PC10 Catchment Modelling
 summary: A scoping study of coupled surface water-groundwater catchment modelling frameworks (SWAT+gwflow and SWAT-MODFLOW-RT3D) for three Lake Rotorua sub-catchments, to identify a platform capable of providing scenario-ready lake model inputs.
 tags:
   - Catchment Modelling
